@@ -1,0 +1,18 @@
+{
+  "name": "treasure-gambit",
+  "version": "0.0.1",
+  "description": "A simple gambling game",
+  "homepage": "https://github.com/Johanes-Leyran/treasure-gambit#readme",
+  "bugs": {
+    "url": "https://github.com/Johanes-Leyran/treasure-gambit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johanes-Leyran/treasure-gambit.git"
+  },
+  "license": "GPL-3.0-only",
+  "author": "Johanes-Leyran",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
